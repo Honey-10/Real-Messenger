@@ -52,5 +52,7 @@ This project was made using the follow technologies:
  
 ![alt_text](https://i.imgur.com/I23wD3L.png)
 ![alt_text](https://i.imgur.com/y3P9OGm.png)
+![alt_text](./one.gif)
+
 
 <!-- END  -->
