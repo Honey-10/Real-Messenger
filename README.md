@@ -7,7 +7,7 @@
 > Real Messenger Form made with Node.js and Socket.io - MVC
 
 <div align="center">
-  <sub>Mern project. Built with ❤︎ by
+  <sub>Mern Project. Built by
     <a href="https://github.com/Honey-10">Harmeet Singh</a>
     
   </sub>
@@ -43,3 +43,9 @@ This project was made using the follow technologies:
   <li><a href="https://github.com/socketio/socket.io">Socket.io</a></li>
 </ul>   
 <!--tech end-->
+<!-- FRONT-END -->
+### Front End
+![alt_text](https://imgur.com/I23wD3L)
+![alt_text](https://imgur.com/y3P9OGm)
+![alt_text](https://imgur.com/NWkwmA0)
+<!-- END  -->
