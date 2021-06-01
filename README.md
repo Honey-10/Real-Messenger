@@ -43,9 +43,14 @@ This project was made using the follow technologies:
   <li><a href="https://github.com/socketio/socket.io">Socket.io</a></li>
 </ul>   
 <!--tech end-->
+
+
 <!-- FRONT-END -->
+
 ### Front End
-![alt_text](https://imgur.com/I23wD3L)
-![alt_text](https://imgur.com/y3P9OGm)
-![alt_text](https://imgur.com/NWkwmA0)
+1. Join Room
+ 
+![alt_text](https://i.imgur.com/I23wD3L.png)
+![alt_text](https://i.imgur.com/y3P9OGm.png)
+
 <!-- END  -->
