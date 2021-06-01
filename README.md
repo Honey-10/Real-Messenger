@@ -54,5 +54,21 @@ This project was made using the follow technologies:
 ![alt_text](https://i.imgur.com/y3P9OGm.png)
 ![alt_text](./one.gif)
 
+2. Another User join the same room
+ 
+![alt_text](https://i.imgur.com/xxC49PQ.png)
+![alt_text](https://i.imgur.com/jARTXpp.png)
+
+3. Messaging in the Same Group
+ 
+![alt_text](https://i.imgur.com/gv9w8qh.png)
+![alt_text](https://i.imgur.com/KxtWRU3.png)
+![alt_text](./two.gif)
+
+4. Leave the Group
+
+![alt_text](https://i.imgur.com/Pu2JNSG.png)
+
+
 
 <!-- END  -->
